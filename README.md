@@ -1,0 +1,1 @@
+Repec export plugin for Open Journal Systems.
